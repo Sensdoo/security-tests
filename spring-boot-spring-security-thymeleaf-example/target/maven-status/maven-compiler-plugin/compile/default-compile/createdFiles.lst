@@ -1,0 +1,4 @@
+com\sens\example\SpringBootWebApplication.class
+com\sens\example\security\MyAccessDeniedHandler.class
+com\sens\example\security\SpringSecurityConfig.class
+com\sens\example\controller\DefaultController.class
